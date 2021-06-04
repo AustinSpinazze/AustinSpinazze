@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a full stack developer and love playing around with new technologies and trying to incorporate them into my current projects.
 - 🌱 I’m currently learning Java and the Spring Framework.
 - 💞️ I’m looking to collaborate on some fun projects that can have an impact
-- 📫 How to reach me aspinazze94@gmail.com
+- 📫 How to reach me austin.spinazze@austinspinazze.dev
 
 <!---
 AustinSpinazze/AustinSpinazze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
